@@ -10,7 +10,11 @@ PMConsulting-Group builds financial, accounting, property management, and invest
 ![image](pmconsulting.png)
 
 ### AI for CyberSecurity
-`Python`
+`IU Kelley School of Business | Master's in I.T. Management | Python`
+
+MarpleAI is our team project in AI for CyberSecurity where we focus on the cybersecurity of electronic payments in the FinTech industry.
+
+![image](marpleAI.png)
 
 ### Enterprise Data Management - Big Data
 `Scala | Pig | Hive | Tableau`
