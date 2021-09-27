@@ -7,7 +7,7 @@ I'm a strategic IT solutions leader with expertise in cloud computing, customer 
 
 PMConsulting-Group builds financial, accounting, property management, and investor dashboards for property management companies.
 
-![image](me.jpeg)
+![image](pmconsulting.png)
 
 ### AI for CyberSecurity
 ` Python `
