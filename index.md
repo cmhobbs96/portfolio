@@ -3,7 +3,15 @@
 I'm a strategic IT solutions leader with expertise in cloud computing, customer success, and enterprise platforms driven by a desire to help others solve complex problems and advocating for customer needs to deliver results.
 
 ### PMConsulting-Group
-`React | NodeJS | Google Firebase`
+` React | NodeJS | Google Firebase `
+
+PMConsulting-Group builds financial, accounting, property management, and investor dashboards for property management companies. 
+
+### AI for CyberSecurity
+` Python `
+
+### Enterprise Data Management - Big Data
+` Scala | Pig | Hive | Tableau `
 
 
 
