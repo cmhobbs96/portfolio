@@ -1,4 +1,11 @@
-## Hey! I'm Conner Hobbs
+## Hey! I'm Conner Hobbs.
+
+I'm a strategic IT solutions leader with expertise in cloud computing, customer success, and enterprise platforms driven by a desire to help others solve complex problems and advocating for customer needs to deliver results.
+
+### PMConsulting-Group
+
+
+
 
 You can use the [editor on GitHub](https://github.com/cmhobbs96/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
