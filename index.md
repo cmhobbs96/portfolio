@@ -5,7 +5,9 @@ I'm a strategic IT solutions leader with expertise in cloud computing, customer 
 ### PMConsulting-Group
 ` React | NodeJS | Google Firebase `
 
-PMConsulting-Group builds financial, accounting, property management, and investor dashboards for property management companies. 
+PMConsulting-Group builds financial, accounting, property management, and investor dashboards for property management companies.
+
+![image](src)
 
 ### AI for CyberSecurity
 ` Python `
