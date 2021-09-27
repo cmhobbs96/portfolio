@@ -2,8 +2,8 @@
 
 I'm a strategic IT solutions leader with expertise in cloud computing, customer success, and enterprise platforms driven by a desire to help others solve complex problems and advocating for customer needs to deliver results.
 
-- Master's Degree in I.T. Management | I.U. Kelley School of Business | Aug 2022*
-- Bachelor's Degree in Mechanical Engineering | Purdue University School of Engineering | May 2018
+Master's Degree in I.T. Management | I.U. Kelley School of Business | Aug 2022*
+Bachelor's Degree in Mechanical Engineering | Purdue University School of Engineering | May 2018
 
 ### PMConsulting-Group
 `React | NodeJS | Google Firebase`
@@ -20,7 +20,9 @@ MarpleAI is our team project in AI for CyberSecurity where we focus on the cyber
 ![image](marpleAI.png)
 
 ### Enterprise Data Management - Big Data
-`Scala | Pig | Hive | Tableau`
+`Hadoop | Pig | Hive | MongoDB | Spark | Tableau`
+
+This class on big data took us through the useful tools of data science with a business scenario and allowed us to fully understand those tools by working with the same scenario the entire semester.
 
 
 
